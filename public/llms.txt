@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את הדרך הפשוטה לנהל הוצאות קבועות ומשתנות, לעקוב אחר הכנסות וחיסכון, ולבנות תחזית תקציבית חודשית מדויקת. התחל לשלוט בכסף שלך עוד היום!
+
+### תכונות
+https://example.com/features
+גלה את כל התכונות שיאפשרו לך לקטלג הוצאות חשמל, מים, ארנונה ועוד, לנהל הוצאות משתנות ולהשוות תחזית מול ביצוע בזמן אמת. הכל בממשק עברי נוח!
+
+### אודות
+https://example.com/about
+הכירו את איציק — הפלטפורמה שנולדה מתוך צורך אמיתי לנהל את כלכלת הבית בצורה ברורה, מסודרת ויעילה. כי כל שקל חשוב ומגיע לו מעקב מדויק ואחראי.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על ניהול התקציב הביתי שלכם? צוות איציק כאן בשבילכם! פנו אלינו עכשיו ונעזור לכם לבנות מערכת הוצאות חכמה שמתאימה בדיוק לצרכים שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
